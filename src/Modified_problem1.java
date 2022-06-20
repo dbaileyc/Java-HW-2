@@ -20,7 +20,7 @@ public class Modified_problem1 {
         System.out.println( a + " * " + b + " * " + d + " = " + Multiply);
 
         double Divide = divide(b, d);
-        System.out.println( a + " * " + b + " =" + Divide);
+        System.out.println( a + " * " + b + " = " + Divide);
 
         int Subtract = subtract(b, c);
         System.out.println( b + " / " + c + " = " + Subtract);
